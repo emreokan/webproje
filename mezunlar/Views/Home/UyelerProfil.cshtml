@@ -1,0 +1,24 @@
+﻿@using mezunlar.Models;
+@model UsersModel
+@{
+    ViewBag.Title = "UyelerProfil";
+}
+
+<div class="card my-3 shadow">
+    <div class="row no-gutters">
+        <div class="col-md-3">
+            <img src="/Blog/img/@Model.Image" class="card-img" alt="...">
+        </div>
+        <div class="col-md-9">
+            <div class="card-body">
+                <h5 class="card-title my-0">@Model.Username @Model.UserLastName</h5>
+                <p class="card-text my-0">@Model.Job - @Model.JobStatu</p>
+                <p class="card-text my-0">@Model.MezunYıl, @Model.Bolum</p>
+                <p class="card-text my-0">@Model.Description</p>
+                <a href=""><button class="btn btn-outline-primary my-1">Güncelle</button></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+

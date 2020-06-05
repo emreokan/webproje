@@ -1,0 +1,28 @@
+﻿@using mezunlar.Models;
+@model IEnumerable<EtkinliklerModel>
+
+@{
+    ViewBag.Title = "Etkinlikler";
+}
+
+@foreach (var etkinlik in Model)
+{
+    <div id="job" class="row border-bottom mt-3 pb-1">
+
+        <div class="col-md-2">
+            <img src="/Blog/img/@etkinlik.Image" class="card-img-top w-100" alt="...">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body p-0 ">
+                <h5 class="card-title p-0 m-1">@etkinlik.Name</h5>
+                <p class="card-text p-0 m-1"> <br> <small>@etkinlik.YayınTarihi - @etkinlik.GecerlilikTarihi</small></p>
+                <p class="card-text p-0 m-1">@etkinlik.Location</p>
+                <p class="card-text p-0 m-1">@etkinlik.Description50</p>
+                <a href="/Home/EtkinlikDetail/@etkinlik.Id" class="btn btn-primary p-1 px-3 ">detay</a>
+            </div>
+        </div>
+    </div>
+
+}
+
+

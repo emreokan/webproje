@@ -1,0 +1,50 @@
+﻿@using mezunlar.Models;
+@model IEnumerable<JobModel>
+
+@{
+    ViewBag.Title = "Job";
+}
+@foreach (var Job in Model)
+{
+    <div class="card my-3">
+        <div class="row no-gutters">
+            <div class="col-md-2">
+                <img src="/Blog/img/@Job.Image" class="card-img" alt="...">
+            </div>
+            <div class="col-md-10">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title my-0">@Job.Name</h5>
+                            <p class="card-text my-0">@Job.JobName - @Job.Location- @Job.Tel - @Job.Mail</p>
+                            <p class="card-text my-0">@Job.Description50<br><small class="text-muted">@Job.YayınTarihi</small></p>
+                            <a class="btn btn-outline-primary" data-toggle="collapse" href="#collapseExample-@Job.Id" role="button" aria-expanded="false" aria-controls="collapseExample-@Job.Id">
+                                Detay
+
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card-body border-left">
+                            <h6 class="card-title my-0">Gönderildi: @Job.YayınTarihi  @Job.Sender PMP </h6>
+                            <p class="card-text my-0">geçerlilik tarihi : @Job.GecerlilikTarihi </p>
+                            <p class="card-text my-0">Tür : @Job.Tür </p>
+                            <button class="btn btn-outline-primary btn-sm my-2">Başvur</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="collapse" id="collapseExample-@Job.Id">
+            <div class="card card-body">
+                @Job.Description
+
+
+            </div>
+        </div>
+    </div>
+}
+
+
+

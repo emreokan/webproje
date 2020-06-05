@@ -1,0 +1,73 @@
+﻿@using mezunlar.Models;
+@model IEnumerable<UsersModel>
+@{
+    ViewBag.Title = "Uyeler";
+}
+
+<div class="row">
+    <div class="col-md-8 mt-2">
+        <h6 class="border-bottom p-2 bg-secondary rounded color-w shadow mb-3">@Model.Count() Üye var <small class="font-weight-light">Son Üyeler</small></h6>
+        @foreach (var users in Model)
+        {
+            <div class="card mb-3 shadow">
+                <div class="row no-gutters">
+                    <div class="col-md-3">
+                        <img src="/Blog/img/@users.Image" class="card-img" alt="@users.Username">
+                    </div>
+                    <div class="col-md-9">
+                        <div class="card-body">
+                            <h5 class="card-title my-0">@users.Username @users.UserLastName</h5>
+                            <p class="card-text my-0">
+                                @users.Bolum
+                            </p>
+                            <p class="card-text my-0">
+                                @users.JobStatu
+                            </p>
+
+                            <a href="/Home/UyelerProfil/@users.Id"><button class="btn btn-primary my-1 float-right">Profiline git</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+        
+
+    </div>
+    <div class="col-md-4">
+        <h6 class="border-bottom p-2 bg-secondary rounded color-w shadow my-2">Sizin için önerilen mentorlar </h6>
+        @foreach (var users in Model)
+        {
+            if (users.Bolum == "Bilgisayar Mühendisliği")
+             {
+                 <div class="card my-3 shadow">
+                     <div class="row no-gutters">
+                         <div class="col-md-3">
+                             <img src="/Blog/img/@users.Image" class="card-img" alt="@users.Username">
+                         </div>
+                         <div class="col-md-9">
+                             <div class="card-body">
+                                 <h5 class="card-title my-0">@users.Username @users.UserLastName</h5>
+                                 <p class="card-text my-0">
+                                     @users.Bolum
+                                 </p>
+                                 <p class="card-text my-0">
+                                     @users.JobStatu
+                                 </p>
+                                 <p class="card-text my-0">
+                                     @users.MezunYıl
+                                 </p>
+                                 <a href="uye-profil.html"><button class="btn btn-primary my-1 float-right">Profiline git</button></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+            }
+           
+
+        }
+        
+
+    </div>
+
+</div>
+

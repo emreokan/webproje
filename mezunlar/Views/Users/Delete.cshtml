@@ -1,0 +1,152 @@
+﻿@model mezunlar.entity.Users
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<hr />
+<h6 class="mt-2 p-2 border bg-secondary rounded color-w shadow">Kullanıcıyı Silmek İstediğinizden emin misiniz?</h6>
+<hr />
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserLastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserLastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Adress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Adress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Image)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Job)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Job)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobstartYear)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobstartYear)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fakulte)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fakulte)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bolum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bolum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsHome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsHome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsApproved)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsApproved)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MezunOldumu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MezunOldumu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MezunYıl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MezunYıl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobStatu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobStatu)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color mb-3">
+            <input type="submit" value="Sil" class="btn btn-danger" />
+            @Html.ActionLink("Kategori Liste", "Index", null, new { @class = "btn btn-warning" })
+        </div>
+    }
+</div>

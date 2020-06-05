@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+}
+.color-w{
+    color: white;
+ 
+}
+.resim-anchor:hover{
+    text-decoration: none;
+    box-shadow: 0 3px 6px rgb(0,0,0,0.16);
+}
+.job{
+   
+    font-size: 1em;
+}

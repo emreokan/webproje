@@ -1,0 +1,40 @@
+﻿
+<ul class="navbar-nav ml-auto btn-group" role="group">
+    
+    @if (Request.IsAuthenticated)
+    {
+        //kullanıcı adı ve logout linkleini cıkar
+        <li class="nav-item btn btn-primary active btn-sm">
+            <a href="@Url.Action("Index", "Home")" class="nav-link active">
+            @User.Identity.Name
+            </a>
+        </li>
+        <li class="nav-item btn btn-primary active btn-sm">
+            <a href="@Url.Action("Logout", "Account")" class="nav-link active">
+               Çıkış
+            </a>
+        </li>
+    }
+    else
+    {
+        //login ve Register linklerini cıkar
+        <li class="nav-item btn btn-primary active btn-sm">
+            <a href="@Url.Action("Login", "Account")" class="nav-link active">
+               Kullanıcı Girişi
+            </a>
+        </li>
+        <li class="nav-item btn btn-primary active btn-sm">
+            <a href="@Url.Action("Register", "Account")" class="nav-link active">
+                Kayıt Ol
+            </a>
+        </li>
+    }
+
+  
+
+    @*<form class="form-inline">
+        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search"/>
+        <button class="btn btn-outline-info my-2 my-sm-0">Search</button>
+    </form>*@
+
+</ul>

@@ -1,0 +1,62 @@
+﻿@model mezunlar.Models.BlogModelCotegoryModel
+
+<div class="row">
+    <div class="col-md-8">
+
+        <h6 class="border-bottom p-2 bg-secondary rounded color-w shadow mb-3 mt-3">Paylaşımlar</h6>
+        <p>
+
+            <a href="@Url.Action("Create","Blogs")" class="btn btn-primary">
+                Yeni Blog Ekle
+            </a>
+        </p>
+       
+        @foreach (var paylasimlar in Model.Blogs)
+        {
+          
+            <div class="row border-bottom job mt-3 pb-1">
+
+                @foreach (var kisiler in Model.UsersModels)
+                {
+
+                    if (paylasimlar.UsersId == kisiler.Id)
+                    {
+                        <div class="col-md-3">
+                            <img src="~/Blog/img/@kisiler.Image" class="card-img-top" alt="...">
+                        </div>
+                        <div class="col-md-9">
+                            <h5 class="card-title p-0 m-1">@kisiler.Username @kisiler.UserLastName </h5>
+                            <p class="lead">
+                                @kisiler.Bolum
+                                <small class="lead">
+
+                                    @kisiler.Job  <br> @kisiler.JobStatu
+                                </small>
+                            </p>
+                        </div>
+                    }
+
+                }
+
+                <div class="card-body p-0 ">
+                    <div class="col-md-8">
+                        <h5 class="card-title p-0 m-1">@paylasimlar.Baslik</h5>
+                    </div>
+                    <p class="card-text pl-3 m-1">@paylasimlar.Aciklama </p>
+                    <p class="card-text pl-3 m-1">@paylasimlar.Icerik</p>
+                    <p class="card-text pl-3 m-1 small">@paylasimlar.EklenmeTarihi.Date</p>
+
+
+                </div>
+
+            </div>
+        }
+
+
+
+    </div>
+    <div class="col-md-4">
+
+    </div>
+
+</div>

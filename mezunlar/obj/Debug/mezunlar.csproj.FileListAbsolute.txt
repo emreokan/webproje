@@ -1,0 +1,184 @@
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\mezunlar.dll.config
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\mezunlar.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\mezunlar.pdb
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\csc.exe
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\csc.exe.config
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\csc.rsp
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\csi.exe
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\csi.exe.config
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\csi.rsp
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.AppContext.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Console.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\vbc.exe
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\vbc.exe.config
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\vbc.rsp
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Helpers.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Mvc.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Razor.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Webpages.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Webpages.Razor.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Razor.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Webpages.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Webpages.Razor.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Helpers.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\System.Web.Mvc.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\obj\Debug\mezunlar.csprojAssemblyReference.cache
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\obj\Debug\mezunlar.csproj.CoreCompileInputs.cache
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\obj\Debug\mezunlar.csproj.CopyComplete
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\obj\Debug\mezunlar.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\obj\Debug\mezunlar.pdb
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\EntityFramework.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\EntityFramework.SqlServer.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\EntityFramework.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\EntityFramework.SqlServer.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.Security.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Newtonsoft.Json.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Owin.dll
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.Security.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stajyer\source\repos\mezunlar\mezunlar\bin\Newtonsoft.Json.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\mezunlar.dll.config
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\mezunlar.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\mezunlar.pdb
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\csc.exe
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\csc.exe.config
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\csc.rsp
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\csi.exe
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\csi.exe.config
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\csi.rsp
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.AppContext.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Console.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\vbc.exe
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\vbc.exe.config
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\vbc.rsp
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\EntityFramework.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\EntityFramework.SqlServer.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.Security.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Newtonsoft.Json.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Owin.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Helpers.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Mvc.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Razor.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Webpages.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Webpages.Razor.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\EntityFramework.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\EntityFramework.SqlServer.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.Security.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Newtonsoft.Json.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Razor.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Webpages.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Webpages.Razor.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Helpers.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\System.Web.Mvc.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\obj\Debug\mezunlar.csprojAssemblyReference.cache
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\obj\Debug\mezunlar.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\obj\Debug\mezunlar.csproj.CopyComplete
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\obj\Debug\mezunlar.dll
+C:\Users\Hector\Desktop\UZEM\Web Proje\mezunlar\mezunlar\mezunlar\obj\Debug\mezunlar.pdb

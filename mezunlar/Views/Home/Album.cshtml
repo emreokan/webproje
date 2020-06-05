@@ -1,0 +1,34 @@
+﻿@using mezunlar.entity;
+@model IEnumerable<Album>
+@{
+    ViewBag.Title = "Album";
+}
+
+<h2>Album</h2>
+
+<h6 class="border-bottom mt-2 p-2 bg-secondary rounded color-w shadow">Fotoğraflar</h6>
+<h6 class="border-bottom mt-0 p-2 bg-secondary rounded color-w shadow mb-3">
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+        <label class="form-check-label" for="inlineRadio1">Yüklenme Tarihi</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+        <label class="form-check-label" for="inlineRadio2">Popülerlik</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+        <label class="form-check-label" for="inlineRadio2">Çekilme Tarihi</label>
+    </div>
+</h6>
+<div class="row">
+    @foreach (var album in Model)
+    {
+        <div class="col-md-6 col-lg-3  mb-3">
+            <img src="/Blog/img/@album.Image" class="img-fluid shadow" alt="Responsive image">
+
+        </div>
+    }
+
+
+</div>
